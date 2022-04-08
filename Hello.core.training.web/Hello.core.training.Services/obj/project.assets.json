@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
       "projectName": "Hello.core.training.Services",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

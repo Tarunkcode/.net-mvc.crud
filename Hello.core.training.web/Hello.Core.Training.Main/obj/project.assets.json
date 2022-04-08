@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
       "projectName": "Hello.Core.Training.Main",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.Core.Training.Main\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.Core.Training.Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5747,8 +5747,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj"
+            "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj"
             }
           }
         }

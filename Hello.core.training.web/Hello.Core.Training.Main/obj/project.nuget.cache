@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5s/OXEVzJ/TDh9BCRpK0fl65sA+F8yEUI6VF76bMi54p4N/H60+Le5KO7cjLN4RdoK1SijZxUYuvscwcP8RntA==",
+  "dgSpecHash": "e1+tub4G51DO0JsrLRu2BL2Un9122lzM0mQLThoJx514fSFI3MtnY96GSydwWmbHmQZ0haZ1OL7dBwew3fK9jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.Core.Training.Main\\Hello.Core.Training.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

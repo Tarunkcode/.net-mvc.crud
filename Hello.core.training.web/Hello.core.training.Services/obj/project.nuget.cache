@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jvUokftRjY1/P83HS17zE2sw/2ADpDqcHgaygyEgs4GlBLv3Uo0p0ky4Y+NDOKVWW9R5xqva60qNN4M5bMGEsw==",
+  "dgSpecHash": "nx54riAULf6gku5fmZoVjADt+k07tffPxdYZXH/RsmLIvGRbk2Np1A0hP4E2fpjKYzdSJSe8rR1wZS3BPrrIDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Training\\Hello.core.training.web\\Hello.core.training.Services\\Hello.core.training.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

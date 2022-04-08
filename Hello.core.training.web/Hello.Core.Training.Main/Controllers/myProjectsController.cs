@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Hello.Core.Training.Main.Controllers
 {
+    [Route("api/[controller]/[action]")]
     public class myProjectsController : Controller
     {
         private readonly ILogger<myProjectsController> _logger;

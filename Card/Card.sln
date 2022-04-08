@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardRecord", "CardRecord\CardRecord.csproj", "{F0AFADCD-67CC-49AF-BA95-6A3396F60C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Card.Api", "Card.Api\Card.Api.csproj", "{B72CC30F-87C0-45C4-B287-34EC73FC2DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F0AFADCD-67CC-49AF-BA95-6A3396F60C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F0AFADCD-67CC-49AF-BA95-6A3396F60C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F0AFADCD-67CC-49AF-BA95-6A3396F60C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F0AFADCD-67CC-49AF-BA95-6A3396F60C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72CC30F-87C0-45C4-B287-34EC73FC2DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72CC30F-87C0-45C4-B287-34EC73FC2DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72CC30F-87C0-45C4-B287-34EC73FC2DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72CC30F-87C0-45C4-B287-34EC73FC2DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49348A1E-D992-4FE8-9CAB-F62C485DE85F}
+		SolutionGuid = {9FD6DA96-1964-420F-9885-14D6D4245560}
 	EndGlobalSection
 EndGlobal
