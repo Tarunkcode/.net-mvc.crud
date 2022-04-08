@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\Basics of Tuple in c-sharp.exe
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\Basics of Tuple in c-sharp.deps.json
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\Basics of Tuple in c-sharp.runtimeconfig.json
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\Basics of Tuple in c-sharp.dll
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\ref\Basics of Tuple in c-sharp.dll
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\bin\Debug\net6.0\Basics of Tuple in c-sharp.pdb
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.AssemblyInfo.cs
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.dll
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\ref\Basics of Tuple in c-sharp.dll
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.pdb
+C:\Users\USER\source\repos\inheritance.cs\Basics of Tuple in c-sharp\obj\Debug\net6.0\Basics of Tuple in c-sharp.genruntimeconfig.cache

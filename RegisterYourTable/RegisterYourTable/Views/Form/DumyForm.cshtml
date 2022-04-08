@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "DumyForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DumyForm</h2>
+
+@Html.DropDownList("ServiceList", null, new {onchange="document.location.href='/Default/Index?value='+this.value;" })

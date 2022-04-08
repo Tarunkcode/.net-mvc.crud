@@ -1,0 +1,125 @@
+﻿@model TableRegistration.Services.BookTable
+
+@{
+    ViewBag.Title = "SaveForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal card">
+
+        <span style="font-size:2rem;">BookTable</span>
+
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="row col-12">
+            <div class="col-md-8">
+                <div class="form-group">
+                    @Html.Label("YourName")
+                    @Html.TextBox("YourName")
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row col-12">
+            <div class="col-md-8">
+                <div class="form-group">
+                    @Html.Label("Venue")
+                    @Html.DropDownListFor(m =>m.Venue, new SelectList(Model.VenueNameList, "Venue", "Venue"), "--Select Venue--")
+                </div>
+            </div>
+        </div>
+
+        <div class="row col-12">
+            <div class="col-md-8">
+                <div class="form-group">
+                    @Html.Label("ChoosenServices")
+                    @Html.DropDownListFor(m => m.ChoosenServices, new SelectList(Model.ServiceNameList, "ChoosenServices", "ChoosenServices"), "--Select Service--")
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row col-12">
+            <div class="col-md-8">
+                <div class="form-group">
+                    @Html.Label("NumberOfPleople")
+                    @Html.RadioButton("NumberOfPleople", "1")1
+                    @Html.RadioButton("NumberOfPleople", "2")2
+                    @Html.RadioButton("NumberOfPleople", "3")3
+                    @Html.RadioButton("NumberOfPleople", "4")4
+                    @Html.RadioButton("NumberOfPleople", "5")5
+                </div>
+            </div>
+        </div>
+
+        @*<div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="control-label">Any Special Occasion?</label>
+                        @Html.TextArea("Reason", new SelectList(Model.ServiceNameList, "ServiceName", "ServiceName"), "--Select--")
+                    </div>
+                </div>
+            </div>*@
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.Label("Bookingdate")
+                    @Html.Editor("Bookingdate")
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.Label("ReachingTime")
+                    @Html.Editor("ReachingTime")
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.Label("SecurityCode")
+                    @Html.Password("SecurityCode")
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.Label("Agreed")
+                    @Html.CheckBox("Agreed")
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="form-group">
+            <div class="col-md-6">
+                <input type="submit" value="SaveForm" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "GetAllBookings")
+</div>

@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\Excellent.Traning.Service.dll.config
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\Excellent.Traning.Service.dll
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\Excellent.Traning.Service.pdb
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\obj\Debug\Excellent.Traning.Service.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\obj\Debug\Excellent.Traning.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\obj\Debug\Excellent.Traning.Service.csproj.CopyComplete
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\obj\Debug\Excellent.Traning.Service.dll
+C:\Users\USER\source\repos\Excellent\Excellent\Excellent.Traning.Service\obj\Debug\Excellent.Traning.Service.pdb

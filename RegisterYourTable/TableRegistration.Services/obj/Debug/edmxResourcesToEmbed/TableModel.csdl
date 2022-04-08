@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookATableModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BookTable">
+    <Key>
+      <PropertyRef Name="tableId" />
+    </Key>
+    <Property Name="YourName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Venue" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Agreed" Type="Boolean" />
+    <Property Name="NumberOfPleople" Type="Int32" />
+    <Property Name="ChoosenServices" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="SecurityCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="ReachingTime" Type="Time" Precision="7" />
+    <Property Name="Bookingdate" Type="DateTime" Precision="0" />
+    <Property Name="tableId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityContainer Name="BookATableEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookTables" EntityType="Self.BookTable" />
+  </EntityContainer>
+</Schema>

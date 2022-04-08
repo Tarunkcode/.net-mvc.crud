@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KKTrainingModelStoreContainer" CdmEntityContainer="KKTrainingEntities1">
+    <EntitySetMapping Name="PlayerRecords">
+      <EntityTypeMapping TypeName="KKTrainingModel.PlayerRecord">
+        <MappingFragment StoreEntitySet="PlayerRecord">
+          <ScalarProperty Name="PlayerName" ColumnName="PlayerName" />
+          <ScalarProperty Name="PlayerRank" ColumnName="PlayerRank" />
+          <ScalarProperty Name="PlayerScore" ColumnName="PlayerScore" />
+          <ScalarProperty Name="PlayerTeam" ColumnName="PlayerTeam" />
+          <ScalarProperty Name="PlayerSport" ColumnName="PlayerSport" />
+          <ScalarProperty Name="playerJurseyNo" ColumnName="playerJurseyNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

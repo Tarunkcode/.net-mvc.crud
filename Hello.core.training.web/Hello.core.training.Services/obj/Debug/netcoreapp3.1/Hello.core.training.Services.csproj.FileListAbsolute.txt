@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\bin\Debug\netcoreapp3.1\Hello.core.training.Services.deps.json
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\bin\Debug\netcoreapp3.1\Hello.core.training.Services.runtimeconfig.json
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\bin\Debug\netcoreapp3.1\Hello.core.training.Services.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\bin\Debug\netcoreapp3.1\Hello.core.training.Services.dll
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\bin\Debug\netcoreapp3.1\Hello.core.training.Services.pdb
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.AssemblyInfo.cs
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.dll
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.pdb
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.genruntimeconfig.cache
+C:\Users\USER\source\repos\Hello.core.training.web\Hello.core.training.Services\obj\Debug\netcoreapp3.1\Hello.core.training.Services.csproj.AssemblyReference.cache

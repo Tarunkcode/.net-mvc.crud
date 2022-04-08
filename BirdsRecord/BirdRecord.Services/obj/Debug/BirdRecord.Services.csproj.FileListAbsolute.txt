@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\BirdRecord.Services.dll.config
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\BirdRecord.Services.dll
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\BirdRecord.Services.pdb
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\obj\Debug\BirdRecord.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\obj\Debug\BirdRecord.Services.csproj.CopyComplete
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\obj\Debug\BirdRecord.Services.dll
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\obj\Debug\BirdRecord.Services.pdb
+C:\Users\USER\source\repos\BirdsRecord\BirdRecord.Services\obj\Debug\BirdRecord.Services.csproj.AssemblyReference.cache

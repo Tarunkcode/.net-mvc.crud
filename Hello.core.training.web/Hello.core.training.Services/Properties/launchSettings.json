@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hello.Core.Training.Main": {
+      "commandName": "Executable",
+      "executablePath": "D:\\DotNetCoreTraining\\ES\\ESTW.sln"
+    }
+  }
+}

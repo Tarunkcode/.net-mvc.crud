@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\publish .net app\Console1.exe
+C:\Users\USER\Desktop\publish .net app\Console1.dll
+C:\Users\USER\Desktop\publish .net app\Console1.deps.json
+C:\Users\USER\Desktop\publish .net app\Console1.runtimeconfig.json
+C:\Users\USER\Desktop\publish .net app\Console1.pdb

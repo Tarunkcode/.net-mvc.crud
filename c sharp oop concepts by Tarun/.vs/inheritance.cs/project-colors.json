@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f46a39c9-f8e4-4762-a675-0af1b7174b2a": {
+      "ProjectGuid": "f46a39c9-f8e4-4762-a675-0af1b7174b2a",
+      "DisplayName": "inheritance.cs",
+      "ColorIndex": 0
+    },
+    "087d634e-9921-4dff-8974-720251941e0b": {
+      "ProjectGuid": "087d634e-9921-4dff-8974-720251941e0b",
+      "DisplayName": "Basics of Tuple in c-sharp",
+      "ColorIndex": 1
+    },
+    "dda9f85b-ec17-4ee5-a84b-6afa778ae9ac": {
+      "ProjectGuid": "dda9f85b-ec17-4ee5-a84b-6afa778ae9ac",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 2
+    },
+    "ea37e229-71a1-4a43-aa66-acadd0d6889b": {
+      "ProjectGuid": "ea37e229-71a1-4a43-aa66-acadd0d6889b",
+      "DisplayName": "static classes",
+      "ColorIndex": 3
+    },
+    "0a9a5aa5-7469-46ee-a932-b4d10692f57e": {
+      "ProjectGuid": "0a9a5aa5-7469-46ee-a932-b4d10692f57e",
+      "DisplayName": "Method Overloading",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

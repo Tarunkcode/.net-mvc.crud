@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "675fb1b4-02c3-411b-ae10-778f1118c4e8": {
+      "ProjectGuid": "675fb1b4-02c3-411b-ae10-778f1118c4e8",
+      "DisplayName": "Static Classes",
+      "ColorIndex": 0
+    },
+    "73e09fe3-d6d6-4860-9ab3-d665364dc098": {
+      "ProjectGuid": "73e09fe3-d6d6-4860-9ab3-d665364dc098",
+      "DisplayName": "Constructors in csharp",
+      "ColorIndex": 1
+    },
+    "1a9b9e7d-c1be-479d-9700-f46a5e54d7af": {
+      "ProjectGuid": "1a9b9e7d-c1be-479d-9700-f46a5e54d7af",
+      "DisplayName": "Method overriding",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

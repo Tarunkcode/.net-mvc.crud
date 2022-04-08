@@ -1,0 +1,12 @@
+* {
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+#post {
+  background-color: grey;
+  color: white;
+  border: 2px solid black;
+  width: 80%;
+}

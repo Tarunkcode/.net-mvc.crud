@@ -1,0 +1,30 @@
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfo.cs
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\inheritance.cs.exe
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\inheritance.cs.deps.json
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\inheritance.cs.runtimeconfig.json
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\inheritance.cs.dll
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\ref\inheritance.cs.dll
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\bin\Debug\net6.0\inheritance.cs.pdb
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.dll
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\ref\inheritance.cs.dll
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.pdb
+C:\Users\USER\source\repos\inheritance.cs\inheritance.cs\obj\Debug\net6.0\inheritance.cs.genruntimeconfig.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.AssemblyInfo.cs
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.dll
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\ref\inheritance.cs.dll
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.pdb
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\inheritance.cs.exe
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\inheritance.cs.deps.json
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\inheritance.cs.runtimeconfig.json
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\inheritance.cs.dll
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\ref\inheritance.cs.dll
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\bin\Debug\net6.0\inheritance.cs.pdb
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\inheritance.cs\obj\Debug\net6.0\inheritance.cs.genruntimeconfig.cache

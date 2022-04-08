@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\Method overriding\obj\Debug\net6.0\Method overriding.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\Method overriding\obj\Debug\net6.0\Method overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\Method overriding\obj\Debug\net6.0\Method overriding.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\Method overriding\obj\Debug\net6.0\Method overriding.AssemblyInfo.cs
+C:\Users\USER\Desktop\c sharp oop concepts by Tarun\Method overriding\obj\Debug\net6.0\Method overriding.csproj.CoreCompileInputs.cache

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inheritance.cs", "inheritance.cs\inheritance.cs.csproj", "{F46A39C9-F8E4-4762-A675-0AF1B7174B2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basics of Tuple in c-sharp", "Basics of Tuple in c-sharp\Basics of Tuple in c-sharp.csproj", "{087D634E-9921-4DFF-8974-720251941E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{DDA9F85B-EC17-4EE5-A84B-6AFA778AE9AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static classes", "static classes\static classes.csproj", "{EA37E229-71A1-4A43-AA66-ACADD0D6889B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overloading", "Method Overloading\Method Overloading.csproj", "{0A9A5AA5-7469-46EE-A932-B4D10692F57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46A39C9-F8E4-4762-A675-0AF1B7174B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46A39C9-F8E4-4762-A675-0AF1B7174B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46A39C9-F8E4-4762-A675-0AF1B7174B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46A39C9-F8E4-4762-A675-0AF1B7174B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087D634E-9921-4DFF-8974-720251941E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087D634E-9921-4DFF-8974-720251941E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087D634E-9921-4DFF-8974-720251941E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087D634E-9921-4DFF-8974-720251941E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA9F85B-EC17-4EE5-A84B-6AFA778AE9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA9F85B-EC17-4EE5-A84B-6AFA778AE9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA9F85B-EC17-4EE5-A84B-6AFA778AE9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA9F85B-EC17-4EE5-A84B-6AFA778AE9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA37E229-71A1-4A43-AA66-ACADD0D6889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA37E229-71A1-4A43-AA66-ACADD0D6889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA37E229-71A1-4A43-AA66-ACADD0D6889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA37E229-71A1-4A43-AA66-ACADD0D6889B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9A5AA5-7469-46EE-A932-B4D10692F57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9A5AA5-7469-46EE-A932-B4D10692F57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9A5AA5-7469-46EE-A932-B4D10692F57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9A5AA5-7469-46EE-A932-B4D10692F57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53123023-98D4-4542-8DB5-28377E386C4A}
+	EndGlobalSection
+EndGlobal

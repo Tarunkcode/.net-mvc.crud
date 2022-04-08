@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KKTrainingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PlayerRecord">
+    <Key>
+      <PropertyRef Name="PlayerRank" />
+    </Key>
+    <Property Name="PlayerName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PlayerRank" Type="Int32" Nullable="false" />
+    <Property Name="PlayerScore" Type="Int32" />
+    <Property Name="PlayerTeam" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="PlayerSport" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="playerJurseyNo" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="KKTrainingEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PlayerRecords" EntityType="Self.PlayerRecord" />
+  </EntityContainer>
+</Schema>

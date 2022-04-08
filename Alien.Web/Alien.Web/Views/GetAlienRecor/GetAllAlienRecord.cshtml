@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Alien.Services.alien>
+
+@{
+    ViewBag.Title = "GetAllAlienRecord";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetAllAlienRecord</h2>
+
+<p>
+    @Html.ActionLink("Create New", "SaveAlienRecord")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.GeneticCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlienBreed)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlienPlanet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlienExpectedAge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlienMission)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.GeneticCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlienBreed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlienPlanet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlienExpectedAge)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlienMission)
+        </td>
+        <td>
+
+            @Html.ActionLink("Update", "Update", "GetAlienRecor", routeValues: new { @id = item.id.ToString() }, htmlAttributes: new { @class = "text-white text-decoration-none" })            
+            @Html.ActionLink("Delete","Delete", "GetAlienRecor", routeValues: new { @id = item.id.ToString() }, htmlAttributes:new {@class="text-white text-decoration-none"})
+        </td>
+    </tr>
+}
+
+</table>

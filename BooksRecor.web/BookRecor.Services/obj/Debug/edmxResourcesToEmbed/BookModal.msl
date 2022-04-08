@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bookshelfModelStoreContainer" CdmEntityContainer="bookshelfEntities">
+    <EntitySetMapping Name="BookRecords">
+      <EntityTypeMapping TypeName="bookshelfModel.BookRecord">
+        <MappingFragment StoreEntitySet="BookRecord">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="publishYear" ColumnName="publishYear" />
+          <ScalarProperty Name="preBooking" ColumnName="preBooking" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

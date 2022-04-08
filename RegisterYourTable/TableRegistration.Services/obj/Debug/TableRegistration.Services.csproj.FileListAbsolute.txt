@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\TableRegistration.Services.dll.config
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\TableRegistration.Services.dll
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\TableRegistration.Services.pdb
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\obj\Debug\TableRegistration.Services.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\obj\Debug\TableRegistration.Services.csproj.CopyComplete
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\obj\Debug\TableRegistration.Services.dll
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\obj\Debug\TableRegistration.Services.pdb
+C:\Users\USER\source\repos\RegisterYourTable\TableRegistration.Services\obj\Debug\TableRegistration.Services.csproj.AssemblyReference.cache

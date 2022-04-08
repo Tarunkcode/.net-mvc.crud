@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\static classes.exe
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\static classes.deps.json
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\static classes.runtimeconfig.json
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\static classes.dll
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\ref\static classes.dll
+C:\Users\USER\source\repos\inheritance.cs\static classes\bin\Debug\net6.0\static classes.pdb
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.AssemblyInfo.cs
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.dll
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\ref\static classes.dll
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.pdb
+C:\Users\USER\source\repos\inheritance.cs\static classes\obj\Debug\net6.0\static classes.genruntimeconfig.cache

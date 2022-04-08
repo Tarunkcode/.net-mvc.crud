@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Excellent.Training.Service.PlayerRecord>
+
+@{
+    ViewBag.Title = "GetAllPlayerRecord";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container container-fluid col-12 mt-4" style="overflow: scroll; text-align:center;">
+
+<div class="card">
+    <span class="card-title" style="font-size:1.5rem;">Existing Records</span>
+    <table style="border:2px solid black;" class=" card-body table table-striped table-bordered table-hover table-sm table-responsive">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.PlayerName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PlayerScore)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PlayerTeam)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PlayerSport)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.playerJurseyNo)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlayerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlayerScore)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlayerTeam)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlayerSport)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.playerJurseyNo)
+                    </td>
+                    @*<td>
+                        @Html.ActionLink("Edit", "Edit", new {/* id=item.PlayerRank*/ }) |
+                        @Html.ActionLink("Details", "Details", new {/* id=item.PlayerRank */ }) |
+                        @Html.ActionLink("Delete", "Delete", new {/* id=item.PlayerRank*/ })
+                    </td>*@
+
+                    <td>
+                        <button class="btn btn-primary">
+                            @Html.ActionLink("Update", "Update", "Player", routeValues: new { @PlayerRank = item.PlayerRank.ToString() }, htmlAttributes: new {@class="text-white text-decoration-none" })
+                        </button>
+                        |
+                        <button class="btn btn-danger">
+                            @Html.ActionLink("Delete", "Delete", "Player", routeValues: new { @PlayerRank = item.PlayerRank.ToString() }, htmlAttributes: new { @class = "text-white text-decoration-none" })
+
+                        </button>
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <div class="card-footer">
+    <button class="btn btn-success">
+        @Html.ActionLink("Add PlayerRecord", "SavePlayerRecord", routeValues: new {}, htmlAttributes: new { @class = "text-white text-decoration-none" })
+    </button>
+
+    </div>
+
+    </div>
+</div>
+
+
+
+

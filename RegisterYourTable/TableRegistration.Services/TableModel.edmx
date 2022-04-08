@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="BookATableModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="BookTable">
+          <Key>
+            <PropertyRef Name="tableId" />
+          </Key>
+          <Property Name="YourName" Type="varchar" MaxLength="30" />
+          <Property Name="Venue" Type="varchar" MaxLength="150" />
+          <Property Name="Agreed" Type="bit" />
+          <Property Name="NumberOfPleople" Type="int" />
+          <Property Name="ChoosenServices" Type="text" />
+          <Property Name="SecurityCode" Type="varchar" MaxLength="10" />
+          <Property Name="ReachingTime" Type="time" Precision="7" />
+          <Property Name="Bookingdate" Type="date" />
+          <Property Name="tableId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="BookATableModelStoreContainer">
+          <EntitySet Name="BookTable" EntityType="Self.BookTable" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BookATableModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="BookTable">
+          <Key>
+            <PropertyRef Name="tableId" />
+          </Key>
+          <Property Name="YourName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="Venue" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="Agreed" Type="Boolean" />
+          <Property Name="NumberOfPleople" Type="Int32" />
+          <Property Name="ChoosenServices" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="SecurityCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="ReachingTime" Type="Time" Precision="7" />
+          <Property Name="Bookingdate" Type="DateTime" Precision="0" />
+          <Property Name="tableId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityContainer Name="BookATableEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="BookTables" EntityType="Self.BookTable" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BookATableModelStoreContainer" CdmEntityContainer="BookATableEntities1">
+          <EntitySetMapping Name="BookTables">
+            <EntityTypeMapping TypeName="BookATableModel.BookTable">
+              <MappingFragment StoreEntitySet="BookTable">
+                <ScalarProperty Name="YourName" ColumnName="YourName" />
+                <ScalarProperty Name="Venue" ColumnName="Venue" />
+                <ScalarProperty Name="Agreed" ColumnName="Agreed" />
+                <ScalarProperty Name="NumberOfPleople" ColumnName="NumberOfPleople" />
+                <ScalarProperty Name="ChoosenServices" ColumnName="ChoosenServices" />
+                <ScalarProperty Name="SecurityCode" ColumnName="SecurityCode" />
+                <ScalarProperty Name="ReachingTime" ColumnName="ReachingTime" />
+                <ScalarProperty Name="Bookingdate" ColumnName="Bookingdate" />
+                <ScalarProperty Name="tableId" ColumnName="tableId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

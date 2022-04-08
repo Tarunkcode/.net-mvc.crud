@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\Method Overloading.exe
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\Method Overloading.deps.json
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\Method Overloading.runtimeconfig.json
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\Method Overloading.dll
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\ref\Method Overloading.dll
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\bin\Debug\net6.0\Method Overloading.pdb
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.AssemblyInfo.cs
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.dll
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\ref\Method Overloading.dll
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.pdb
+C:\Users\USER\source\repos\inheritance.cs\Method Overloading\obj\Debug\net6.0\Method Overloading.genruntimeconfig.cache

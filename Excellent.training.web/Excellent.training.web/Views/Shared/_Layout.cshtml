@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="@Url.Content("~/Content/bootstrap.min.css")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+
+</head>
+<body class="p-0" style="margin:0 auto;">
+   
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" style="margin:10px 20px" href="#">Tarun Sports Academy</a>
+        
+        <div class="collapse navbar-collapse d-flex flex-row-reverse" style="display:flex; flex-direction:column; align-content:end;" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="~/Views/Player/GetAllPlayerRecord.cshtml">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/Views/Player/SavePlayerRecord.cshtml">Add Player</a>
+                </li>
+                @*<li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                    </div>
+                </li>*@
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Login</a>
+                </li>
+            </ul>
+            
+        </div>
+    </nav>
+    
+    <div class="container container-fluid body-content">
+        @RenderBody()
+   
+        <footer class="bg-info container-fluid text-center" style="position:fixed; bottom:0; margin-right:0 ">
+            <p>&copy; @DateTime.Now.Year - All Rights are Reserved by Tarun Sports Academy- 2022</p>
+        </footer>
+    </div>
+
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

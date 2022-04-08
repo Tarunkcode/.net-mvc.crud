@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AlienModelStoreContainer" CdmEntityContainer="AlienEntities">
+    <EntitySetMapping Name="aliens">
+      <EntityTypeMapping TypeName="AlienModel.alien">
+        <MappingFragment StoreEntitySet="alien">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="GeneticCode" ColumnName="GeneticCode" />
+          <ScalarProperty Name="AlienBreed" ColumnName="AlienBreed" />
+          <ScalarProperty Name="AlienPlanet" ColumnName="AlienPlanet" />
+          <ScalarProperty Name="AlienExpectedAge" ColumnName="AlienExpectedAge" />
+          <ScalarProperty Name="AlienMission" ColumnName="AlienMission" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

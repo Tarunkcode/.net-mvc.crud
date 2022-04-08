@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\oopsBasic.cs.exe
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\oopsBasic.cs.deps.json
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\oopsBasic.cs.runtimeconfig.json
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\oopsBasic.cs.dll
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\ref\oopsBasic.cs.dll
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\bin\Debug\net6.0\oopsBasic.cs.pdb
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.AssemblyInfo.cs
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.dll
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\ref\oopsBasic.cs.dll
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.pdb
+C:\Users\USER\source\repos\oopsBasic.cs\oopsBasic.cs\obj\Debug\net6.0\oopsBasic.cs.genruntimeconfig.cache

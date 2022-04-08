@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookATableModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BookTable">
+    <Key>
+      <PropertyRef Name="tableId" />
+    </Key>
+    <Property Name="YourName" Type="varchar" MaxLength="30" />
+    <Property Name="Venue" Type="varchar" MaxLength="150" />
+    <Property Name="Agreed" Type="bit" />
+    <Property Name="NumberOfPleople" Type="int" />
+    <Property Name="ChoosenServices" Type="text" />
+    <Property Name="SecurityCode" Type="varchar" MaxLength="10" />
+    <Property Name="ReachingTime" Type="time" Precision="7" />
+    <Property Name="Bookingdate" Type="date" />
+    <Property Name="tableId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BookATableModelStoreContainer">
+    <EntitySet Name="BookTable" EntityType="Self.BookTable" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

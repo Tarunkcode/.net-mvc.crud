@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BirdsRecorModel2StoreContainer" CdmEntityContainer="BirdsRecorEntities2">
+    <EntitySetMapping Name="Birds">
+      <EntityTypeMapping TypeName="BirdsRecorModel2.Bird">
+        <MappingFragment StoreEntitySet="Birds">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DistTravelled" ColumnName="DistTravelled" />
+          <ScalarProperty Name="MigratingTo" ColumnName="MigratingTo" />
+          <ScalarProperty Name="MigratingFrom" ColumnName="MigratingFrom" />
+          <ScalarProperty Name="TimeTaken" ColumnName="TimeTaken" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

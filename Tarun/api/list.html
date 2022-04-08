@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Api</h1>
+
+    <!-- <p>give your 2 inputs.</p> -->
+
+    <button onclick="myFunction()">Try it</button>
+
+    <p id="id"></p>
+
+    <script>
+      function myFunction() {
+        var person = prompt("please use 2 inputs only without space");
+        //   var arr = new Array()[6];
+        if (person.length === 2) {
+          document.getElementById("id").innerHTML = " 'H' 'E' 'L' 'L' 'O' ";
+        } else {
+          document.getElementById("id").innerHTML = " Input Error ";
+        }
+      }
+    </script>
+  </body>
+</html>
